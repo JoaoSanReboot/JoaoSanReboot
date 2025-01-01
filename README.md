@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AF1313&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AF1313&size=24&center=true&vCenter=true&width=1000&lines=Hey!,+you+can+call+me+João+Santana;I'm+18+years+old;Im+just+trying+to+learn+IT;Have+a+God+Day+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AF1313&size=24&center=true&vCenter=true&width=1000&lines=Hey!,+you+can+call+me+João+Santana;I'm+19+years+old;Im+just+trying+to+learn+IT;Have+a+God+Day+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoSanReboot&show_icons=true&count_private=true&hide_border=true&title_color=F00101&icon_color=DE5420&text_color=FFFFFF&bg_color=0d1117" alt="João Pedro github stats" /> 
