@@ -74,6 +74,5 @@
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
