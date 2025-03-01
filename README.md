@@ -13,7 +13,7 @@
     alt="HTML"
     title="HTML"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
@@ -22,7 +22,7 @@
     alt="HTML"
     title="HTML"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
            
