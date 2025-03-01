@@ -10,8 +10,8 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="C"
+    title="C"
     width="30px"
     style="padding-right: 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -19,8 +19,8 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="C++"
+    title="C++"
     width="30px"
     style="padding-right: 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
@@ -28,8 +28,8 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="C#"
+    title="C#"
     width="30px"
     style="padding-right: 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
@@ -37,8 +37,8 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="MYSQL"
+    title="MYSQL"
     width="30px"
     style="padding-right: 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
@@ -46,16 +46,16 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="DOTNET"
+    title="DOTNET"
     width="30px"
     style="padding-right: 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
 />
 
 <img 
-    align="left"
-    alt="HTML"
+    align="ADOBE"
+    alt="ADOBE"
     title="HTML"
     width="30px"
     style="padding-right: 8px;"
@@ -73,17 +73,8 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="30px"
     style="padding-right: 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
