@@ -9,7 +9,7 @@
 ### 🌐 Linguagens e Tecnologias
 
 <img 
-    aling="left"
+    align="left"
     alt="HTML"
     title="HTML"
     width="30px"
@@ -18,7 +18,7 @@
 />
 
 <img 
-    aling="left"
+    align="left"
     alt="HTML"
     title="HTML"
     width="30px"
