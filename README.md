@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-"Olá! Meu nome é João, tenho 19 anos e gosto muito de café! Atualmente Resido em São José dos Pinhais, PR. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI/FIEP e, atualmente, curso Engenharia de Software pela Unicesumar. Dedico-me ao estudo de desenvolvimento desde os 16 anos, e minha determinação em seguir essa carreira é constante. Espero que por meio dos meus projetos e das minhas publicações, as pessoas possam perceber e valorizar a paixão que tenho por esse universo sem limites ou barreiras."
+"Olá! Meu nome é João, tenho 19 anos e gosto muito de café! Atualmente Resido em São José dos Pinhais, PR. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI/FIEP e, atualmente, curso Engenharia de Software pela Unicesumar. Dedico-me ao estudo de desenvolvimento desde os 16 anos, e minha determinação em seguir essa carreira é constante. Espero que por meio dos meus projetos e das minhas publicações, as pessoas possam perceber e valorizar a paixão que tenho por esse universo sem limites da programação."
 
 ---
 
